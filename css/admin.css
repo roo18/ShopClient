@@ -1,0 +1,14 @@
+#containTable{
+    background-color: white;
+    float: left;
+    width: 90%;
+    margin: 30px;
+    text-align: center;
+}
+
+#containTable table thead{
+    background-color: #6B0;
+    color:white;
+    font-weight: bold;
+    
+}
